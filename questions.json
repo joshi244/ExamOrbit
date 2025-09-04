@@ -1,0 +1,1202 @@
+[
+  {
+    "section": "Math",
+    "id": "M1",
+    "q": "Math Q1: What is 23 + 46 ?",
+    "options": [
+      "27",
+      "69",
+      "85",
+      "104"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Math",
+    "id": "M2",
+    "q": "Math Q2: What is 16 + 40 ?",
+    "options": [
+      "56",
+      "113",
+      "100",
+      "114"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Math",
+    "id": "M3",
+    "q": "Math Q3: What is 18 + 25 ?",
+    "options": [
+      "25",
+      "12",
+      "43",
+      "111"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Math",
+    "id": "M4",
+    "q": "Math Q4: What is 29 + 9 ?",
+    "options": [
+      "38",
+      "44",
+      "58",
+      "84"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Math",
+    "id": "M5",
+    "q": "Math Q5: What is 16 + 5 ?",
+    "options": [
+      "21",
+      "22",
+      "60",
+      "83"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Math",
+    "id": "M6",
+    "q": "Math Q6: What is 17 + 45 ?",
+    "options": [
+      "10",
+      "120",
+      "90",
+      "62"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Math",
+    "id": "M7",
+    "q": "Math Q7: What is 45 + 37 ?",
+    "options": [
+      "82",
+      "70",
+      "3",
+      "59"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Math",
+    "id": "M8",
+    "q": "Math Q8: What is 50 + 44 ?",
+    "options": [
+      "101",
+      "94",
+      "37",
+      "70"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Math",
+    "id": "M9",
+    "q": "Math Q9: What is 11 + 18 ?",
+    "options": [
+      "36",
+      "112",
+      "29",
+      "67"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Math",
+    "id": "M10",
+    "q": "Math Q10: What is 26 + 49 ?",
+    "options": [
+      "1",
+      "75",
+      "59",
+      "97"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Math",
+    "id": "M11",
+    "q": "Math Q11: What is 30 + 29 ?",
+    "options": [
+      "101",
+      "59",
+      "0",
+      "92"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Math",
+    "id": "M12",
+    "q": "Math Q12: What is 44 + 23 ?",
+    "options": [
+      "10",
+      "67",
+      "86",
+      "3"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Math",
+    "id": "M13",
+    "q": "Math Q13: What is 3 + 50 ?",
+    "options": [
+      "108",
+      "36",
+      "53",
+      "30"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Math",
+    "id": "M14",
+    "q": "Math Q14: What is 15 + 29 ?",
+    "options": [
+      "16",
+      "59",
+      "51",
+      "44"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Math",
+    "id": "M15",
+    "q": "Math Q15: What is 31 + 30 ?",
+    "options": [
+      "50",
+      "58",
+      "67",
+      "61"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Math",
+    "id": "M16",
+    "q": "Math Q16: What is 45 + 5 ?",
+    "options": [
+      "65",
+      "44",
+      "70",
+      "50"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Math",
+    "id": "M17",
+    "q": "Math Q17: What is 38 + 48 ?",
+    "options": [
+      "92",
+      "86",
+      "61",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Math",
+    "id": "M18",
+    "q": "Math Q18: What is 13 + 28 ?",
+    "options": [
+      "103",
+      "64",
+      "33",
+      "41"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Math",
+    "id": "M19",
+    "q": "Math Q19: What is 2 + 12 ?",
+    "options": [
+      "25",
+      "84",
+      "111",
+      "14"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Math",
+    "id": "M20",
+    "q": "Math Q20: What is 29 + 24 ?",
+    "options": [
+      "73",
+      "94",
+      "26",
+      "53"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Math",
+    "id": "M21",
+    "q": "Math Q21: What is 16 + 42 ?",
+    "options": [
+      "8",
+      "25",
+      "81",
+      "58"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Math",
+    "id": "M22",
+    "q": "Math Q22: What is 48 + 45 ?",
+    "options": [
+      "93",
+      "34",
+      "16",
+      "19"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Math",
+    "id": "M23",
+    "q": "Math Q23: What is 11 + 26 ?",
+    "options": [
+      "30",
+      "77",
+      "37",
+      "107"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Math",
+    "id": "M24",
+    "q": "Math Q24: What is 3 + 30 ?",
+    "options": [
+      "58",
+      "98",
+      "33",
+      "107"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Math",
+    "id": "M25",
+    "q": "Math Q25: What is 24 + 36 ?",
+    "options": [
+      "61",
+      "60",
+      "56",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "English",
+    "id": "E1",
+    "q": "English Q1: Choose the correct article: _____ apple a day keeps the doctor away.",
+    "options": [
+      "A",
+      "No article",
+      "The",
+      "An"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "English",
+    "id": "E2",
+    "q": "English Q2: Choose synonym of 'Rapid'.",
+    "options": [
+      "Small",
+      "Slow",
+      "Quick",
+      "Late"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "English",
+    "id": "E3",
+    "q": "English Q3: Choose correct past tense of 'go'.",
+    "options": [
+      "Goned",
+      "Go",
+      "Went",
+      "Goed"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "English",
+    "id": "E4",
+    "q": "English Q4: Fill in the blank: He ____ to the market yesterday.",
+    "options": [
+      "going",
+      "go",
+      "gone",
+      "went"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "English",
+    "id": "E5",
+    "q": "English Q5: Choose antonym of 'Generous'.",
+    "options": [
+      "Stingy",
+      "Helpful",
+      "Large",
+      "Kind"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "English",
+    "id": "E6",
+    "q": "English Q6: Choose correct plural: 'Child' -> ?",
+    "options": [
+      "Childer",
+      "Childes",
+      "Children",
+      "Childs"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "English",
+    "id": "E7",
+    "q": "English Q7: Choose correct preposition: She is good ___ math.",
+    "options": [
+      "for",
+      "at",
+      "on",
+      "in"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "English",
+    "id": "E8",
+    "q": "English Q8: Identify the adverb: He ran quickly.",
+    "options": [
+      "He",
+      "quickly",
+      "-",
+      "ran"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "English",
+    "id": "E9",
+    "q": "English Q9: Choose synonym of 'Begin'.",
+    "options": [
+      "End",
+      "Finish",
+      "Start",
+      "Stop"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "English",
+    "id": "E10",
+    "q": "English Q10: Choose correct: She ____ her homework.",
+    "options": [
+      "doing",
+      "does",
+      "did",
+      "do"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "English",
+    "id": "E11",
+    "q": "English Q11: What is the comparative of 'good'?",
+    "options": [
+      "more good",
+      "best",
+      "better",
+      "gooder"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "English",
+    "id": "E12",
+    "q": "English Q12: Pick correct sentence",
+    "options": [
+      "He going to school.",
+      "He goes to school.",
+      "He gone to school.",
+      "He go to school."
+    ],
+    "answer": 1
+  },
+  {
+    "section": "English",
+    "id": "E13",
+    "q": "English Q13: Choose correct spelling",
+    "options": [
+      "Receeve",
+      "Recive",
+      "Receive",
+      "Recieve"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "English",
+    "id": "E14",
+    "q": "English Q14: Select the noun: 'Honesty is the best policy.'",
+    "options": [
+      "policy",
+      "best",
+      "Honesty",
+      "is"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "English",
+    "id": "E15",
+    "q": "English Q15: Choose correct contraction for 'they are'",
+    "options": [
+      "there",
+      "thay're",
+      "their",
+      "they're"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "English",
+    "id": "E16",
+    "q": "English Q16: Choose synonym of 'Angry'",
+    "options": [
+      "Calm",
+      "Happy",
+      "Glad",
+      "Furious"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "English",
+    "id": "E17",
+    "q": "English Q17: Fill blank: I have ____ apples.",
+    "options": [
+      "too",
+      "tu",
+      "two",
+      "to"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "English",
+    "id": "E18",
+    "q": "English Q18: Select correct pronoun: ____ is my book.",
+    "options": [
+      "This",
+      "They",
+      "Those",
+      "It"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "English",
+    "id": "E19",
+    "q": "English Q19: Choose correct tense: She ____ already left.",
+    "options": [
+      "has",
+      "had",
+      "is",
+      "have"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "English",
+    "id": "E20",
+    "q": "English Q20: Choose antonym of 'Difficult'",
+    "options": [
+      "Easy",
+      "Tough",
+      "Hard",
+      "Complex"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "English",
+    "id": "E21",
+    "q": "English Q21: Choose correct plural of 'Box'",
+    "options": [
+      "Boxen",
+      "Boxes",
+      "Boxes'",
+      "Boxs"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "English",
+    "id": "E22",
+    "q": "English Q22: Choose synonym of 'Silent'",
+    "options": [
+      "Noisy",
+      "Loud",
+      "Talky",
+      "Quiet"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "English",
+    "id": "E23",
+    "q": "English Q23: Choose correct preposition: He is fond ___ music.",
+    "options": [
+      "on",
+      "of",
+      "for",
+      "in"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "English",
+    "id": "E24",
+    "q": "English Q24: Pick correct past of 'eat'",
+    "options": [
+      "ate",
+      "eated",
+      "eaten",
+      "eat"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "English",
+    "id": "E25",
+    "q": "English Q25: Choose correct: She is one of the ____ students.",
+    "options": [
+      "brighter",
+      "brightest",
+      "more bright",
+      "bright"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reasoning",
+    "id": "R1",
+    "q": "Reasoning Q1: What comes next in series: 2,4,6,8,?",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reasoning",
+    "id": "R2",
+    "q": "Reasoning Q2: Find the odd one out: Apple, Banana, Carrot, Mango",
+    "options": [
+      "Carrot",
+      "Apple",
+      "Banana",
+      "Mango"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Reasoning",
+    "id": "R3",
+    "q": "Reasoning Q3: If DAY=5 and NIGHT=5 then TOTAL=?",
+    "options": [
+      "8",
+      "11",
+      "9",
+      "10"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Reasoning",
+    "id": "R4",
+    "q": "Reasoning Q4: Complete analogy: Bird is to Fly as Fish is to ?",
+    "options": [
+      "Jump",
+      "Walk",
+      "Swim",
+      "Run"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Reasoning",
+    "id": "R5",
+    "q": "Reasoning Q5: Series: 1,1,2,3,5,?",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reasoning",
+    "id": "R6",
+    "q": "Reasoning Q6: Find missing number: 4,9,14,19,?",
+    "options": [
+      "23",
+      "25",
+      "20",
+      "24"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Reasoning",
+    "id": "R7",
+    "q": "Reasoning Q7: If A=1,B=2,... what is CAT?",
+    "options": [
+      "6",
+      "25",
+      "7",
+      "24"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Reasoning",
+    "id": "R8",
+    "q": "Reasoning Q8: Which number is prime?",
+    "options": [
+      "22",
+      "23",
+      "24",
+      "21"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reasoning",
+    "id": "R9",
+    "q": "Reasoning Q9: Select next: 5,10,20,40,?",
+    "options": [
+      "80",
+      "90",
+      "70",
+      "60"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Reasoning",
+    "id": "R10",
+    "q": "Reasoning Q10: Which is odd one: 2,3,5,9",
+    "options": [
+      "2",
+      "9",
+      "5",
+      "3"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reasoning",
+    "id": "R11",
+    "q": "Reasoning Q11: What comes next in series: 2,4,6,8,?",
+    "options": [
+      "10",
+      "12",
+      "9",
+      "11"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Reasoning",
+    "id": "R12",
+    "q": "Reasoning Q12: Find the odd one out: Apple, Banana, Carrot, Mango",
+    "options": [
+      "Carrot",
+      "Mango",
+      "Banana",
+      "Apple"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Reasoning",
+    "id": "R13",
+    "q": "Reasoning Q13: If DAY=5 and NIGHT=5 then TOTAL=?",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Reasoning",
+    "id": "R14",
+    "q": "Reasoning Q14: Complete analogy: Bird is to Fly as Fish is to ?",
+    "options": [
+      "Run",
+      "Swim",
+      "Walk",
+      "Jump"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reasoning",
+    "id": "R15",
+    "q": "Reasoning Q15: Series: 1,1,2,3,5,?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reasoning",
+    "id": "R16",
+    "q": "Reasoning Q16: Find missing number: 4,9,14,19,?",
+    "options": [
+      "25",
+      "23",
+      "24",
+      "20"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Reasoning",
+    "id": "R17",
+    "q": "Reasoning Q17: If A=1,B=2,... what is CAT?",
+    "options": [
+      "7",
+      "24",
+      "25",
+      "6"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reasoning",
+    "id": "R18",
+    "q": "Reasoning Q18: Which number is prime?",
+    "options": [
+      "21",
+      "24",
+      "23",
+      "22"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Reasoning",
+    "id": "R19",
+    "q": "Reasoning Q19: Select next: 5,10,20,40,?",
+    "options": [
+      "90",
+      "60",
+      "70",
+      "80"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Reasoning",
+    "id": "R20",
+    "q": "Reasoning Q20: Which is odd one: 2,3,5,9",
+    "options": [
+      "3",
+      "5",
+      "9",
+      "2"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "Reasoning",
+    "id": "R21",
+    "q": "Reasoning Q21: What comes next in series: 2,4,6,8,?",
+    "options": [
+      "10",
+      "9",
+      "12",
+      "11"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Reasoning",
+    "id": "R22",
+    "q": "Reasoning Q22: Find the odd one out: Apple, Banana, Carrot, Mango",
+    "options": [
+      "Mango",
+      "Carrot",
+      "Apple",
+      "Banana"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "Reasoning",
+    "id": "R23",
+    "q": "Reasoning Q23: If DAY=5 and NIGHT=5 then TOTAL=?",
+    "options": [
+      "11",
+      "9",
+      "8",
+      "10"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "Reasoning",
+    "id": "R24",
+    "q": "Reasoning Q24: Complete analogy: Bird is to Fly as Fish is to ?",
+    "options": [
+      "Swim",
+      "Jump",
+      "Run",
+      "Walk"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "Reasoning",
+    "id": "R25",
+    "q": "Reasoning Q25: Series: 1,1,2,3,5,?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "GK",
+    "id": "G1",
+    "q": "GK Q1: Capital of India?",
+    "options": [
+      "New Delhi",
+      "Chennai",
+      "Mumbai",
+      "Kolkata"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "GK",
+    "id": "G2",
+    "q": "GK Q2: The currency of Japan is?",
+    "options": [
+      "Euro",
+      "Yen",
+      "Dollar",
+      "Rupee"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "GK",
+    "id": "G3",
+    "q": "GK Q3: Which planet is known as Red Planet?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "GK",
+    "id": "G4",
+    "q": "GK Q4: What is H2O?",
+    "options": [
+      "Water",
+      "Oxygen",
+      "Hydrogen",
+      "Helium"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "GK",
+    "id": "G5",
+    "q": "GK Q5: Which is the largest ocean?",
+    "options": [
+      "Pacific",
+      "Indian",
+      "Arctic",
+      "Atlantic"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "GK",
+    "id": "G6",
+    "q": "GK Q6: The national bird of India is?",
+    "options": [
+      "Parrot",
+      "Peacock",
+      "Eagle",
+      "Sparrow"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "GK",
+    "id": "G7",
+    "q": "GK Q7: Who is known as the Father of Indian Constitution?",
+    "options": [
+      "Gandhi",
+      "Patel",
+      "Dr. B.R. Ambedkar",
+      "Nehru"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "GK",
+    "id": "G8",
+    "q": "GK Q8: Which gas do plants absorb?",
+    "options": [
+      "Carbon Dioxide",
+      "Oxygen",
+      "Helium",
+      "Nitrogen"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "GK",
+    "id": "G9",
+    "q": "GK Q9: Who wrote 'Gitanjali'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Tulsidas",
+      "Bankim Chandra",
+      "Premchand"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "GK",
+    "id": "G10",
+    "q": "GK Q10: Which animal is called the ship of the desert?",
+    "options": [
+      "Elephant",
+      "Donkey",
+      "Camel",
+      "Horse"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "GK",
+    "id": "G11",
+    "q": "GK Q11: Capital of India?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "GK",
+    "id": "G12",
+    "q": "GK Q12: The currency of Japan is?",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Rupee",
+      "Yen"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "GK",
+    "id": "G13",
+    "q": "GK Q13: Which planet is known as Red Planet?",
+    "options": [
+      "Mars",
+      "Earth",
+      "Jupiter",
+      "Venus"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "GK",
+    "id": "G14",
+    "q": "GK Q14: What is H2O?",
+    "options": [
+      "Hydrogen",
+      "Oxygen",
+      "Helium",
+      "Water"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "GK",
+    "id": "G15",
+    "q": "GK Q15: Which is the largest ocean?",
+    "options": [
+      "Pacific",
+      "Indian",
+      "Arctic",
+      "Atlantic"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "GK",
+    "id": "G16",
+    "q": "GK Q16: The national bird of India is?",
+    "options": [
+      "Eagle",
+      "Sparrow",
+      "Parrot",
+      "Peacock"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "GK",
+    "id": "G17",
+    "q": "GK Q17: Who is known as the Father of Indian Constitution?",
+    "options": [
+      "Nehru",
+      "Patel",
+      "Gandhi",
+      "Dr. B.R. Ambedkar"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "GK",
+    "id": "G18",
+    "q": "GK Q18: Which gas do plants absorb?",
+    "options": [
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Oxygen",
+      "Helium"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "GK",
+    "id": "G19",
+    "q": "GK Q19: Who wrote 'Gitanjali'?",
+    "options": [
+      "Premchand",
+      "Tulsidas",
+      "Rabindranath Tagore",
+      "Bankim Chandra"
+    ],
+    "answer": 2
+  },
+  {
+    "section": "GK",
+    "id": "G20",
+    "q": "GK Q20: Which animal is called the ship of the desert?",
+    "options": [
+      "Elephant",
+      "Camel",
+      "Horse",
+      "Donkey"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "GK",
+    "id": "G21",
+    "q": "GK Q21: Capital of India?",
+    "options": [
+      "Chennai",
+      "New Delhi",
+      "Kolkata",
+      "Mumbai"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "GK",
+    "id": "G22",
+    "q": "GK Q22: The currency of Japan is?",
+    "options": [
+      "Dollar",
+      "Yen",
+      "Euro",
+      "Rupee"
+    ],
+    "answer": 1
+  },
+  {
+    "section": "GK",
+    "id": "G23",
+    "q": "GK Q23: Which planet is known as Red Planet?",
+    "options": [
+      "Jupiter",
+      "Earth",
+      "Venus",
+      "Mars"
+    ],
+    "answer": 3
+  },
+  {
+    "section": "GK",
+    "id": "G24",
+    "q": "GK Q24: What is H2O?",
+    "options": [
+      "Water",
+      "Oxygen",
+      "Helium",
+      "Hydrogen"
+    ],
+    "answer": 0
+  },
+  {
+    "section": "GK",
+    "id": "G25",
+    "q": "GK Q25: Which is the largest ocean?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "answer": 2
+  }
+]
